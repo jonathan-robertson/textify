@@ -1,13 +1,17 @@
-package textify
+package textify_test
 
-import "testing"
+import (
+	"testing"
+
+	"github.com/puddingfactory/textify"
+)
 
 const (
 	pdfFilename = "testing/test.pdf"
 )
 
 func TestPDF(t *testing.T) {
-	text, err := PDF(pdfFilename, "\n")
+	text, err := textify.PDF(pdfFilename, "\n")
 	if err != nil {
 		t.Fatal(err)
 	}
