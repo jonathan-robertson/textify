@@ -1,4 +1,4 @@
-# Textify [![Apache-2.0 License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/puddingfactory/textify/blob/master/LICENSE)
+# Textify [![Apache-2.0 License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![GoDoc](https://godoc.org/github.com/puddingfactory/textify?status.svg)](https://godoc.org/github.com/puddingfactory/textify)
 
 Turns popular document formats into plain text for searching, indexing, etc.
 
