@@ -4,7 +4,7 @@ Turns popular document formats into plain text for searching, indexing, etc.
 
 ## Purpose
 
-I began working on [VaultedPages](https://github.com/vaultedpages/vaultedpages) and needed (deeply wanted!) a golang package that could extract text from PDF files.
+I began working on [LockedArchive](https://github.com/puddingfactory/lockedarchive) and really wanted a golang package that could extract text from PDF files.
 
 There are some interesting packages available (such as [UniDoc](https://github.com/unidoc/unidoc) and [docconv](https://github.com/sajari/docconv)), but I prefer avoiding any non-golang dependencies and like the freedom of the Apache-2.0 license.
 
