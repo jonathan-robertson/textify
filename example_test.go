@@ -17,7 +17,7 @@ package textify_test
 import (
 	"log"
 
-	"github.com/puddingfactory/textify"
+	"github.com/jonathan-robertson/textify"
 )
 
 func ExamplePDF() {

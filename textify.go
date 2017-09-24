@@ -13,13 +13,13 @@
 // limitations under the License.
 
 // Package textify extracts useable text from PDF files.
-// github.com/puddingfactory/pdf is a fork of rsc.io/pdf
+// github.com/jonathan-robertson/pdf is a fork of rsc.io/pdf
 package textify
 
 import (
 	"bytes"
 
-	"github.com/puddingfactory/pdf"
+	"github.com/jonathan-robertson/pdf"
 )
 
 // PDF reads a pdf file and returns its text

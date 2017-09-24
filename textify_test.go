@@ -17,7 +17,7 @@ package textify_test
 import (
 	"testing"
 
-	"github.com/puddingfactory/textify"
+	"github.com/jonathan-robertson/textify"
 )
 
 const (
